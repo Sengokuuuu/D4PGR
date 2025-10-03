@@ -1,5 +1,4 @@
-# $D^4P\mathcal{GR}$
-$D^4P\mathcal{GR}$: Image Restoration via Denoising Diffusion Models with Dual-domain Parameterized Non-convex Gradient Regularization
+# [$D^4P\mathcal{GR}$] Image Restoration via Denoising Diffusion Models with Dual-domain Parameterized Non-convex Gradient Regularization
 
 ![](https://img.shields.io/badge/Python-3.10-blue.svg)  ![](https://img.shields.io/badge/PyTorch-2.7.0+-ee4c2c.svg)  ![](https://img.shields.io/badge/License-MIT-green.svg)
 
